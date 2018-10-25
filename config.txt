@@ -1,0 +1,11 @@
+/// Configuration for First-Rpg
+/// @Author William Anderson andersonwilliam236@gmail.com
+///
+///Game Mode Options
+///Respawn
+TRUE
+///Hack Options
+///GODMODE
+FALSE
+///UNKILLABLE
+TRUE
